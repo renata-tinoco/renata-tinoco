@@ -12,7 +12,7 @@
 
 ![Minha Metodologia e Ferramentas](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/03b0679f13d632478e87d2050d0a151b30f3521b/visual-pessoal/titulo-metodologia.svg)
 
-![Da rotina manual ao processo em lote. Observar. Mapeio lançamentos manuais e pontos de retrabalho. Questionar. Identifico a origem das divergências e exceções. Estruturar. Traduzo regras da folha em critérios de conferência. Construir. Crio lotes de importação e revisores de folha. Validar. Concilio totais e testo cenários e exceções. Evoluir. Acompanho tempo, erros e retrabalho a cada ciclo. Ferramentas. Python · SQL · Streamlit · Cursor · GitHub · Claude · ChatGPT · Google Gemini · Pipefy · Trello · Microsoft Planner · Microsoft Power Automate · Power BI · Microsoft Viva Engage](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/23618218d7808e66bb562561c0c1930ee5e0dee5/visual-pessoal/metodologia.svg)
+![Da rotina manual ao processo em lote. Observar. Mapeio lançamentos manuais e pontos de retrabalho. Questionar. Identifico a origem das divergências e exceções. Estruturar. Traduzo regras da folha em critérios de conferência. Construir. Crio lotes de importação e revisores de folha. Validar. Concilio totais e testo cenários e exceções. Evoluir. Acompanho tempo, erros e retrabalho a cada ciclo. Ferramentas. Desenvolvimento: Python, Streamlit, Cursor, GitHub. Dados e BI: SQL, Power BI. Inteligência Artificial: Claude, ChatGPT, Google Gemini. Automação e Fluxos: Pipefy, Microsoft Power Automate. Gestão e Colaboração: Trello, Microsoft Planner, Microsoft Viva Engage.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/b928171ecfde5e7ec22287ace9e24b303ce14cd5/visual-pessoal/metodologia.svg)
 
 ---
 
