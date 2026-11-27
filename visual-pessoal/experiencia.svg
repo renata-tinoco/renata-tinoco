@@ -3,7 +3,8 @@
 <rect x="30" y="25" width="40" height="5" rx="2" fill="#26D07C"/>
 <text x="30" y="98" font-size="48" fill="#26D07C" font-weight="bold" >30+</text>
 <text x="30" y="147" font-size="17" fill="#FFFFFF" font-weight="bold" >ANOS DE EXPERIÊNCIA</text>
-<text x="30" y="181" font-size="20" fill="#D9D9D6" font-weight="normal" >Gestão e operações</text>
+<text x="30" y="174" font-size="20" fill="#D9D9D6">Departamento Pessoal e</text>
+<text x="30" y="198" font-size="20" fill="#D9D9D6">Folha de Pagamento</text>
 <rect x="405" y="5" width="390" height="210" rx="12" fill="#0B1B24"/>
 <rect x="430" y="25" width="40" height="5" rx="2" fill="#26D07C"/>
 <text x="430" y="70" font-size="27" fill="#26D07C" font-weight="bold">2 MBAs</text>
