@@ -6,15 +6,19 @@
 
 ## Perfil executivo
 
-Minha trajetória profissional é construída pela integração entre gestão estratégica, liderança, conhecimento técnico e inovação.
+## Perfil executivo
 
-Com mais de 30 anos de experiência, atuo na gestão de operações complexas, no desenvolvimento de equipes, na estruturação de projetos e na transformação de processos empresariais.
+![Experiência que constrói. Conhecimento que transforma.](./perfil-executivo.svg)
+
+Com mais de **30 anos de experiência profissional**, minha trajetória integra gestão estratégica, liderança, conhecimento técnico e inovação.
+
+Atuo na gestão de operações complexas, no desenvolvimento de equipes, na estruturação de projetos e na transformação de processos empresariais.
 
 Minha experiência contempla gestão de negócios, rentabilidade, capacidade operacional, indicadores de desempenho, conformidade e desenvolvimento de soluções tecnológicas.
 
 Tenho como característica a inquietude diante de processos que podem ser melhorados. Gosto de investigar, questionar, conectar conhecimentos e transformar necessidades empresariais em soluções práticas.
 
-Acredito que a tecnologia, quando associada à experiência e à visão estratégica, amplia nossa capacidade de decidir, criar e transformar.
+![Acredito que a tecnologia, quando associada à experiência e à visão estratégica, amplia nossa capacidade de decidir, criar e transformar.](./visao-executiva.svg)
 
 ---
 
