@@ -1,1 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" font-family="Encode Sans, Roboto, Arial, sans-serif"><rect width="1200" height="190" rx="14" fill="#0B1B24"/><line x1="100" y1="70" x2="1100" y2="70" stroke="#26D07C" stroke-width="2"/><circle cx="100" cy="70" r="34" fill="#0B1B24" stroke="#26D07C" stroke-width="3"/><text x="100" y="80" font-size="29" fill="#26D07C" font-weight="bold" text-anchor="middle">1</text><text x="100" y="140" font-size="23" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Observar</text><circle cx="300" cy="70" r="34" fill="#0B1B24" stroke="#26D07C" stroke-width="3"/><text x="300" y="80" font-size="29" fill="#26D07C" font-weight="bold" text-anchor="middle">2</text><text x="300" y="140" font-size="23" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Questionar</text><circle cx="500" cy="70" r="34" fill="#0B1B24" stroke="#26D07C" stroke-width="3"/><text x="500" y="80" font-size="29" fill="#26D07C" font-weight="bold" text-anchor="middle">3</text><text x="500" y="140" font-size="23" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Estruturar</text><circle cx="700" cy="70" r="34" fill="#0B1B24" stroke="#26D07C" stroke-width="3"/><text x="700" y="80" font-size="29" fill="#26D07C" font-weight="bold" text-anchor="middle">4</text><text x="700" y="140" font-size="23" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Construir</text><circle cx="900" cy="70" r="34" fill="#0B1B24" stroke="#26D07C" stroke-width="3"/><text x="900" y="80" font-size="29" fill="#26D07C" font-weight="bold" text-anchor="middle">5</text><text x="900" y="140" font-size="23" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Validar</text><circle cx="1100" cy="70" r="34" fill="#0B1B24" stroke="#26D07C" stroke-width="3"/><text x="1100" y="80" font-size="29" fill="#26D07C" font-weight="bold" text-anchor="middle">6</text><text x="1100" y="140" font-size="23" fill="#FFFFFF" font-weight="bold" text-anchor="middle">Evoluir</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="645" viewBox="0 0 1200 645" font-family="Arial, sans-serif">
+  <rect width="1200" height="645" rx="14" fill="#F3F5F5"/>
+  <text x="34" y="36" font-size="16" font-weight="700" letter-spacing="3" fill="#087844">DEPARTAMENTO PESSOAL E FOLHA DE PAGAMENTO</text>
+  <text x="34" y="82" font-size="39" font-weight="700" fill="#0B1B24">Da rotina manual ao processo em lote</text>
+  <text x="34" y="116" font-size="23" fill="#0B1B24">Estruturo lançamentos em lote e concentro a revisão nas divergências.</text>
+  <g transform="translate(34 143)">
+    <rect width="560" height="92" rx="10" fill="#FFFFFF" stroke="#D1DDD7"/>
+    <rect x="18" y="19" width="5" height="53" rx="2" fill="#26D07C"/>
+    <text x="37" y="36" fill="#0B1B24" font-size="26" font-weight="700">Observar</text>
+    <text x="37" y="67" fill="#0B1B24" font-size="19">Mapeio lançamentos manuais e pontos de retrabalho.</text>
+  </g>
+  <g transform="translate(606 143)">
+    <rect width="560" height="92" rx="10" fill="#FFFFFF" stroke="#D1DDD7"/>
+    <rect x="18" y="19" width="5" height="53" rx="2" fill="#26D07C"/>
+    <text x="37" y="36" fill="#0B1B24" font-size="26" font-weight="700">Questionar</text>
+    <text x="37" y="67" fill="#0B1B24" font-size="19">Identifico a origem das divergências e exceções.</text>
+  </g>
+  <g transform="translate(34 248)">
+    <rect width="560" height="92" rx="10" fill="#FFFFFF" stroke="#D1DDD7"/>
+    <rect x="18" y="19" width="5" height="53" rx="2" fill="#26D07C"/>
+    <text x="37" y="36" fill="#0B1B24" font-size="26" font-weight="700">Estruturar</text>
+    <text x="37" y="67" fill="#0B1B24" font-size="19">Traduzo regras da folha em critérios de conferência.</text>
+  </g>
+  <g transform="translate(606 248)">
+    <rect width="560" height="92" rx="10" fill="#FFFFFF" stroke="#D1DDD7"/>
+    <rect x="18" y="19" width="5" height="53" rx="2" fill="#26D07C"/>
+    <text x="37" y="36" fill="#0B1B24" font-size="26" font-weight="700">Construir</text>
+    <text x="37" y="67" fill="#0B1B24" font-size="19">Crio lotes de importação e revisores de folha.</text>
+  </g>
+  <g transform="translate(34 353)">
+    <rect width="560" height="92" rx="10" fill="#FFFFFF" stroke="#D1DDD7"/>
+    <rect x="18" y="19" width="5" height="53" rx="2" fill="#26D07C"/>
+    <text x="37" y="36" fill="#0B1B24" font-size="26" font-weight="700">Validar</text>
+    <text x="37" y="67" fill="#0B1B24" font-size="19">Concilio totais e testo cenários e exceções.</text>
+  </g>
+  <g transform="translate(606 353)">
+    <rect width="560" height="92" rx="10" fill="#FFFFFF" stroke="#D1DDD7"/>
+    <rect x="18" y="19" width="5" height="53" rx="2" fill="#26D07C"/>
+    <text x="37" y="36" fill="#0B1B24" font-size="26" font-weight="700">Evoluir</text>
+    <text x="37" y="67" fill="#0B1B24" font-size="19">Acompanho tempo, erros e retrabalho a cada ciclo.</text>
+  </g>
+  <rect x="34" y="459" width="1132" height="160" rx="10" fill="#0B1B24"/>
+  <text x="57" y="492" font-size="22" font-weight="700" fill="#26D07C">Ferramentas</text>
+  <text x="57" y="522" fill="#FFFFFF" font-size="19">Python · SQL · Streamlit · Cursor · GitHub</text>
+  <text x="57" y="546" fill="#FFFFFF" font-size="19">Claude · ChatGPT · Google Gemini</text>
+  <text x="57" y="570" fill="#FFFFFF" font-size="19">Pipefy · Trello · Microsoft Planner · Microsoft Power Automate</text>
+  <text x="57" y="594" fill="#FFFFFF" font-size="19">Power BI · Microsoft Viva Engage</text>
+</svg>
