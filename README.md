@@ -53,6 +53,11 @@ Estruturação de controles, revisão de processos, identificação de inconsist
 
 ![Graduação em Gestão de Recursos Humanos, MBA em Gestão de Projetos, MBA em Gestão Estratégica de Negócios e Mercados e graduação em Psicologia em andamento](./visual-pessoal/formacao.svg)
 
+- **Graduação em Gestão de Recursos Humanos**
+- **MBA em Gestão de Projetos**
+- **MBA em Gestão Estratégica de Negócios e Mercados**
+- **Graduação em Psicologia** (em andamento)
+
 Minha formação multidisciplinar integra gestão, estratégia empresarial e comportamento humano, ampliando minha compreensão sobre liderança, desenvolvimento de pessoas e tomada de decisão.
 
 ---
@@ -61,27 +66,12 @@ Minha formação multidisciplinar integra gestão, estratégia empresarial e com
 
 ![Python, Claude, ChatGPT, Cursor, GitHub, Power BI, Power Automate e Streamlit](./visual-pessoal/tecnologias.svg)
 
-<details>
-<summary>Consultar conteúdo em texto</summary>
+Utilizo ferramentas de automação, gestão, análise de dados e inteligência artificial para organizar operações e transformar necessidades de negócio em soluções práticas.
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0B1B24?style=for-the-badge&logo=python&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-0B1B24?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0B1B24?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-0B1B24?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-0B1B24?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-0B1B24?style=for-the-badge)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0B1B24?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-0B1B24?style=for-the-badge&logo=streamlit&logoColor=white)
-
-</div>
-
-Utilizo ferramentas de inteligência artificial, automação, análise de dados e desenvolvimento assistido para transformar conhecimento técnico e necessidades empresariais em soluções aplicáveis.
-
-Meu foco não está apenas na utilização da tecnologia, mas na identificação de onde ela pode gerar valor para os negócios.
-
-</details>
+- **Automação no-code e low-code** — Pipefy e Microsoft Power Automate para estruturar fluxos, automatizar tarefas recorrentes e encaminhar aprovações.
+- **Gestão de projetos e colaboração** — Trello e Microsoft Planner para organizar demandas, responsáveis e prazos. Microsoft Viva Engage para comunicação interna e troca de conhecimento.
+- **Inteligência artificial aplicada** — ChatGPT, Claude e Google Gemini para apoiar pesquisa, síntese, estruturação de ideias e desenvolvimento de soluções.
+- **Dados e desenvolvimento** — Power BI para acompanhar indicadores, Python e Streamlit para análises e protótipos, Cursor para desenvolvimento assistido e GitHub para versionamento.
 
 ---
 
@@ -89,25 +79,16 @@ Meu foco não está apenas na utilização da tecnologia, mas na identificação
 
 ![Observar, questionar, estruturar, construir, validar e evoluir](./visual-pessoal/metodologia.svg)
 
-<details>
-<summary>Consultar conteúdo em texto</summary>
+Aplico minha metodologia de inovação para entender a operação, estruturar melhorias e acompanhar os resultados.
 
-<div align="center">
+1. **Observar** — Mapear o processo atual, ouvir quem o executa e identificar gargalos, riscos e retrabalho.
+2. **Questionar** — Investigar as causas e avaliar quais etapas podem ser simplificadas ou automatizadas.
+3. **Estruturar** — Definir prioridades, responsabilidades, regras de negócio e critérios de sucesso.
+4. **Construir** — Desenvolver um protótipo, fluxo de trabalho ou painel conforme a necessidade.
+5. **Validar** — Testar com quem usa a solução e avaliar indicadores como tempo, erros e retrabalho.
+6. **Evoluir** — Incorporar o retorno da equipe, documentar as mudanças e acompanhar os resultados.
 
-**OBSERVAR → QUESTIONAR → ESTRUTURAR → CONSTRUIR → VALIDAR → EVOLUIR**
-
-</div>
-
-| Etapa | Propósito |
-| :--- | :--- |
-| Observar | Compreender o cenário e identificar necessidades reais |
-| Questionar | Investigar processos e suas possibilidades de melhoria |
-| Estruturar | Organizar requisitos, objetivos e estratégias |
-| Construir | Transformar conhecimento em soluções |
-| Validar | Avaliar resultados, consistência e aplicabilidade |
-| Evoluir | Aprimorar continuamente a solução |
-
-</details>
+**Exemplo de aplicação.** Em um fluxo de solicitações, a metodologia começa pelo mapeamento de como os pedidos chegam. A partir daí, é possível padronizar a entrada no Pipefy, automatizar avisos com o Power Automate e acompanhar o prazo de atendimento.
 
 ---
 
