@@ -1,3 +1,4 @@
+![Renata Tinoco — Identidade profissional](./banner.svg)
  <div align="center">
 
 # RENATA TINOCO
