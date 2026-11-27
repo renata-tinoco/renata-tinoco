@@ -54,14 +54,9 @@ Estruturação de controles, revisão de processos, identificação de inconsist
 
 ## Formação acadêmica
 
-| Formação | Área de conhecimento |
-| :--- | :--- |
-| Graduação | Gestão de Recursos Humanos |
-| MBA | Gestão de Projetos |
-| MBA | Gestão Estratégica de Negócios e Mercados |
-| Graduação em andamento | Psicologia |
+![Graduação em Gestão de Recursos Humanos, MBA em Gestão de Projetos, MBA em Gestão Estratégica de Negócios e Mercados e graduação em Psicologia em andamento](./formacao.svg)
 
-Minha formação em Psicologia complementa minha experiência em gestão, ampliando minha compreensão sobre comportamento humano, liderança, desenvolvimento de pessoas e tomada de decisão.
+Minha formação multidisciplinar integra gestão, estratégia empresarial e comportamento humano, ampliando minha compreensão sobre liderança, desenvolvimento de pessoas e tomada de decisão.
 
 ---
 
