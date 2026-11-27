@@ -12,22 +12,7 @@
 
 ![Minha Metodologia e Ferramentas](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/03b0679f13d632478e87d2050d0a151b30f3521b/visual-pessoal/titulo-metodologia.svg)
 
-![Observar, questionar, estruturar, construir, validar e evoluir](./visual-pessoal/metodologia.svg)
-
-Aplico minha metodologia de inovação para entender a operação, estruturar melhorias e acompanhar os resultados.
-
-1. **Observar** — Mapear o processo atual, ouvir quem o executa e identificar gargalos, riscos e retrabalho.
-2. **Questionar** — Investigar as causas e avaliar quais etapas podem ser simplificadas ou automatizadas.
-3. **Estruturar** — Definir prioridades, responsabilidades, regras de negócio e critérios de sucesso.
-4. **Construir** — Desenvolver um protótipo, fluxo de trabalho ou painel conforme a necessidade.
-5. **Validar** — Testar com quem usa a solução e avaliar indicadores como tempo, erros e retrabalho.
-6. **Evoluir** — Incorporar o retorno da equipe, documentar as mudanças e acompanhar os resultados.
-
-**Ferramentas**
-
-Python · SQL · Streamlit · Cursor · GitHub  
-Claude · ChatGPT · Google Gemini  
-Pipefy · Trello · Microsoft Planner · Microsoft Power Automate · Power BI · Microsoft Viva Engage
+![Da rotina manual ao processo em lote. Observar. Mapeio lançamentos manuais e pontos de retrabalho. Questionar. Identifico a origem das divergências e exceções. Estruturar. Traduzo regras da folha em critérios de conferência. Construir. Crio lotes de importação e revisores de folha. Validar. Concilio totais e testo cenários e exceções. Evoluir. Acompanho tempo, erros e retrabalho a cada ciclo. Ferramentas. Python · SQL · Streamlit · Cursor · GitHub · Claude · ChatGPT · Google Gemini · Pipefy · Trello · Microsoft Planner · Microsoft Power Automate · Power BI · Microsoft Viva Engage](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/23618218d7808e66bb562561c0c1930ee5e0dee5/visual-pessoal/metodologia.svg)
 
 ---
 
