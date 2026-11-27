@@ -6,10 +6,14 @@
     </clipPath>
   </defs>
 
+  <!-- Fundo e barra lateral -->
+
   <g clip-path="url(#painel)">
     <rect width="1200" height="820" fill="#F7F4EF"/>
     <rect x="0" y="0" width="9" height="820" fill="#C6AF87"/>
   </g>
+
+  <!-- Identidade profissional -->
 
   <text x="45" y="48" fill="#597563" font-family="Arial" font-size="15" letter-spacing="4">
     IDENTIDADE PROFISSIONAL
@@ -45,27 +49,27 @@
 
   <line x1="45" y1="320" x2="1155" y2="320" stroke="#C6AF87"/>
 
-  <!-- Perfil executivo completo -->
+  <!-- Perfil executivo com alinhamento justificado -->
 
-  <g fill="#192D28" font-family="Arial, sans-serif" font-size="23">
+  <g fill="#192D28" font-family="Arial, sans-serif" font-size="24">
 
-    <text x="45" y="370">
-      Com mais de <tspan font-weight="bold">30 anos de experiência profissional</tspan>, minha trajetória integra
+    <text x="45" y="370" textLength="1110" lengthAdjust="spacing">
+      Com mais de <tspan font-weight="bold">30 anos de experiência profissional</tspan>, minha trajetória integra gestão
     </text>
 
     <text x="45" y="404">
-      gestão estratégica, liderança, conhecimento técnico e inovação.
+      estratégica, liderança, conhecimento técnico e inovação.
     </text>
 
-    <text x="45" y="454">
-      Atuo na gestão de operações complexas, no desenvolvimento de equipes, na
+    <text x="45" y="454" textLength="1110" lengthAdjust="spacing">
+      Atuo na gestão de operações complexas, no desenvolvimento de equipes, na estruturação
     </text>
 
     <text x="45" y="488">
-      estruturação de projetos e na transformação de processos empresariais.
+      de projetos e na transformação de processos empresariais.
     </text>
 
-    <text x="45" y="538">
+    <text x="45" y="538" textLength="1110" lengthAdjust="spacing">
       Minha experiência contempla gestão de negócios, rentabilidade, capacidade operacional,
     </text>
 
@@ -73,11 +77,11 @@
       indicadores de desempenho, conformidade e desenvolvimento de soluções tecnológicas.
     </text>
 
-    <text x="45" y="622">
+    <text x="45" y="622" textLength="1110" lengthAdjust="spacing">
       Tenho como característica a inquietude diante de processos que podem ser melhorados.
     </text>
 
-    <text x="45" y="656">
+    <text x="45" y="656" textLength="1110" lengthAdjust="spacing">
       Gosto de investigar, questionar, conectar conhecimentos e transformar necessidades
     </text>
 
@@ -93,7 +97,7 @@
 
   <g fill="#806A46" font-family="Georgia, serif" font-size="25" font-style="italic">
 
-    <text x="45" y="762">
+    <text x="45" y="762" textLength="1110" lengthAdjust="spacing">
       Acredito que a tecnologia, quando associada à experiência e à visão estratégica,
     </text>
 
