@@ -83,5 +83,7 @@
     <text x="551.5" y="796" text-anchor="middle" font-size="19" font-weight="700" fill="#FFFFFF">Microsoft Planner</text>
     <rect x="678" y="768" width="269" height="44" rx="7" fill="#15332F" stroke="#378677"/>
     <text x="812.5" y="796" text-anchor="middle" font-size="19" font-weight="700" fill="#FFFFFF">Microsoft Viva Engage</text>
+    <rect x="961" y="768" width="105" height="44" rx="7" fill="#15332F" stroke="#378677"/>
+    <text x="1013.5" y="796" text-anchor="middle" font-size="19" font-weight="700" fill="#FFFFFF">Miro</text>
   </g>
 </svg>
