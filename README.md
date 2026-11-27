@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/banner.svg" width="100%" alt="Renata Tinoco — Identidade profissional">
-</p>
+![Renata Tinoco — Identidade profissional](./banner.svg)
  <div align="center">
 
 # RENATA TINOCO
