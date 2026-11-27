@@ -26,17 +26,6 @@
 
 ![Minha essência profissional e pessoal](./visual-pessoal/essencia.svg)
 
-<details>
-<summary>Consultar conteúdo em texto</summary>
-
-Minha fé me direciona, o conhecimento me transforma e a curiosidade me mantém em movimento.
-
-Acredito na liderança que desenvolve pessoas, na estratégia que constrói possibilidades e na inovação que gera valor.
-
-Mais do que acompanhar transformações, busco participar da sua construção.
-
-</details>
-
 ---
 
 <div align="center">
