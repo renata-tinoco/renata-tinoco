@@ -10,23 +10,7 @@
 
 ---
 
-![Competências Estratégicas](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-competencias.svg?v=d1b732154d7b)
-
-![Gestão estratégica, liderança, inteligência artificial, gestão de resultados, automação de processos e transformação digital](./visual-pessoal/competencias.svg)
-
-Gestão de projetos, planejamento operacional, gestão de riscos e conformidade, inteligência de dados, integração de tecnologias e digitalização de operações.
-
----
-
-![Tecnologia Aplicada aos Negócios](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-tecnologia.svg?v=d1b732154d7b)
-
-Python · SQL · Streamlit · Cursor · GitHub  
-Claude · ChatGPT · Google Gemini  
-Pipefy · Trello · Microsoft Planner · Microsoft Power Automate · Power BI · Microsoft Viva Engage
-
----
-
-![Minha Metodologia de Inovação](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-metodologia.svg?v=d1b732154d7b)
+![Minha Metodologia e Ferramentas](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/03b0679f13d632478e87d2050d0a151b30f3521b/visual-pessoal/titulo-metodologia.svg)
 
 ![Observar, questionar, estruturar, construir, validar e evoluir](./visual-pessoal/metodologia.svg)
 
@@ -39,7 +23,11 @@ Aplico minha metodologia de inovação para entender a operação, estruturar me
 5. **Validar** — Testar com quem usa a solução e avaliar indicadores como tempo, erros e retrabalho.
 6. **Evoluir** — Incorporar o retorno da equipe, documentar as mudanças e acompanhar os resultados.
 
-**Exemplo de aplicação.** Em um fluxo de solicitações, a metodologia começa pelo mapeamento de como os pedidos chegam. A partir daí, é possível padronizar a entrada no Pipefy, automatizar avisos com o Power Automate e acompanhar o prazo de atendimento.
+**Ferramentas**
+
+Python · SQL · Streamlit · Cursor · GitHub  
+Claude · ChatGPT · Google Gemini  
+Pipefy · Trello · Microsoft Planner · Microsoft Power Automate · Power BI · Microsoft Viva Engage
 
 ---
 
