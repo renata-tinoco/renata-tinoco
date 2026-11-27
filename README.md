@@ -8,7 +8,7 @@
 
 Minha trajetória profissional é construída pela integração entre gestão estratégica, liderança, conhecimento técnico e inovação.
 
-Com mais de 20 anos de experiência, atuo na gestão de operações complexas, no desenvolvimento de equipes, na estruturação de projetos e na transformação de processos empresariais.
+Com mais de 30 anos de experiência, atuo na gestão de operações complexas, no desenvolvimento de equipes, na estruturação de projetos e na transformação de processos empresariais.
 
 Minha experiência contempla gestão de negócios, rentabilidade, capacidade operacional, indicadores de desempenho, conformidade e desenvolvimento de soluções tecnológicas.
 
