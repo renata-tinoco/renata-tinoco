@@ -4,12 +4,12 @@
 
 ---
 
-![Perfil Executivo](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-perfil.svg?v=d1b732154d7b)
+![Minha Trajetória](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/6989a7a9bba16aedd26a2d16bfbbacd851757a8c/visual-pessoal/titulo-perfil.svg)
 
 ![Identidade profissional e trajetória de Renata em Departamento Pessoal, Folha de Pagamento e tecnologia. Versão em texto disponível a seguir.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/c29568c777e2f41a939575cc76e9b1599d37a3a3/visual-pessoal/perfil-executivo.svg)
 
 <details>
-<summary>Ler o Perfil executivo em texto</summary>
+<summary>Ler Minha Trajetória em texto</summary>
 
 Durante anos, ouvi que “tudo é culpa do DP”. Vi o Departamento Pessoal e a Folha de Pagamento receberem pouco reconhecimento e colegas da própria área se acostumarem com essa visão. Para mim, isso nunca fez sentido. Eu amo o que faço e quero que quem trabalha ao meu lado sinta orgulho de fazer parte dessa área.
 
