@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="941" viewBox="0 0 1200 941">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="810" viewBox="0 0 1200 810">
 
   <defs>
     <clipPath id="painel">
-      <rect width="1200" height="941" rx="14"/>
+      <rect width="1200" height="810" rx="14"/>
     </clipPath>
   </defs>
 
   <!-- Fundo e barra lateral -->
 
   <g clip-path="url(#painel)">
-    <rect width="1200" height="941" fill="#F3F5F5"/>
-    <rect x="0" y="0" width="9" height="941" fill="#26D07C"/>
+    <rect width="1200" height="810" fill="#F3F5F5"/>
+    <rect x="0" y="0" width="9" height="810" fill="#26D07C"/>
   </g>
 
   <!-- Identidade profissional -->
@@ -29,38 +29,21 @@
 
   <line x1="45" y1="188" x2="1155" y2="188" stroke="#26D07C"/>
 
-  <!-- Estratégia -->
-
-  <text x="45" y="241" fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="30">Estratégia</text>
-  <text x="45" y="274" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="20">Visão de negócios</text>
-
-  <!-- Pessoas -->
-
-  <text x="420" y="241" fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="30">Pessoas</text>
-  <text x="420" y="274" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="20">Liderança e desenvolvimento</text>
-
-  <!-- Tecnologia -->
-
-  <text x="795" y="241" fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="30">Tecnologia</text>
-  <text x="795" y="274" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="20">Inovação aplicada</text>
-
-
 <g fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="25">
-<line x1="45" y1="319" x2="1155" y2="319" stroke="#26D07C"/>
-<text x="45" y="377" textLength="1110" lengthAdjust="spacing">Durante anos, ouvi que “tudo é culpa do DP”. Vi o Departamento Pessoal e a Folha de</text>
-<text x="45" y="411" textLength="1110" lengthAdjust="spacing">Pagamento receberem pouco reconhecimento e colegas da própria área se acostumarem</text>
-<text x="45" y="445" textLength="1110" lengthAdjust="spacing">com essa visão. Para mim, isso nunca fez sentido. Eu amo o que faço e quero que quem</text>
-<text x="45" y="479">trabalha ao meu lado sinta orgulho de fazer parte dessa área.</text>
-<text x="45" y="529" textLength="1110" lengthAdjust="spacing">Quem vive a folha sabe como é quando a regra muda, o sistema ainda não está pronto e o</text>
-<text x="45" y="563" textLength="1110" lengthAdjust="spacing">prazo continua correndo. Ainda assim, a gente encontra uma saída e garante que cada</text>
-<text x="45" y="597" textLength="1110" lengthAdjust="spacing">pessoa receba corretamente. Foi dessa necessidade de dar um jeito que nasceu a minha</text>
-<text x="45" y="631">forma de usar tecnologia.</text>
-<text x="45" y="681" textLength="1110" lengthAdjust="spacing">Se tenho centenas de férias para processar, preparo o lançamento em lote. Se a folha</text>
-<text x="45" y="715" textLength="1110" lengthAdjust="spacing">precisa de revisão, monto um revisor que cruza os dados e sinaliza divergências. Se a</text>
-<text x="45" y="749" textLength="1110" lengthAdjust="spacing">implantação exige um layout que o sistema de origem não entrega, transformo os dados no</text>
-<text x="45" y="783">formato necessário e confiro o arquivo antes da carga.</text>
-<text x="45" y="833" textLength="1110" lengthAdjust="spacing">É isso que eu levo para a operação: conheço a rotina por dentro e sei transformar seus</text>
-<text x="45" y="867" textLength="1110" lengthAdjust="spacing">gargalos em soluções. Quando a tecnologia assume o trabalho repetitivo, a equipe ganha</text>
-<text x="45" y="901">tempo para investigar, decidir e mostrar o valor do que faz.</text>
+<text x="45" y="246" textLength="1110" lengthAdjust="spacing">Durante anos, ouvi que “tudo é culpa do DP”. Vi o Departamento Pessoal e a Folha de</text>
+<text x="45" y="280" textLength="1110" lengthAdjust="spacing">Pagamento receberem pouco reconhecimento e colegas da própria área se acostumarem</text>
+<text x="45" y="314" textLength="1110" lengthAdjust="spacing">com essa visão. Para mim, isso nunca fez sentido. Eu amo o que faço e quero que quem</text>
+<text x="45" y="348">trabalha ao meu lado sinta orgulho de fazer parte dessa área.</text>
+<text x="45" y="398" textLength="1110" lengthAdjust="spacing">Quem vive a folha sabe como é quando a regra muda, o sistema ainda não está pronto e o</text>
+<text x="45" y="432" textLength="1110" lengthAdjust="spacing">prazo continua correndo. Ainda assim, a gente encontra uma saída e garante que cada</text>
+<text x="45" y="466" textLength="1110" lengthAdjust="spacing">pessoa receba corretamente. Foi dessa necessidade de dar um jeito que nasceu a minha</text>
+<text x="45" y="500">forma de usar tecnologia.</text>
+<text x="45" y="550" textLength="1110" lengthAdjust="spacing">Se tenho centenas de férias para processar, preparo o lançamento em lote. Se a folha</text>
+<text x="45" y="584" textLength="1110" lengthAdjust="spacing">precisa de revisão, monto um revisor que cruza os dados e sinaliza divergências. Se a</text>
+<text x="45" y="618" textLength="1110" lengthAdjust="spacing">implantação exige um layout que o sistema de origem não entrega, transformo os dados no</text>
+<text x="45" y="652">formato necessário e confiro o arquivo antes da carga.</text>
+<text x="45" y="702" textLength="1110" lengthAdjust="spacing">É isso que eu levo para a operação: conheço a rotina por dentro e sei transformar seus</text>
+<text x="45" y="736" textLength="1110" lengthAdjust="spacing">gargalos em soluções. Quando a tecnologia assume o trabalho repetitivo, a equipe ganha</text>
+<text x="45" y="770">tempo para investigar, decidir e mostrar o valor do que faz.</text>
 </g>
 </svg>
