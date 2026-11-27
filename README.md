@@ -1,75 +1,85 @@
 ![Renata Tinoco — Identidade profissional](./banner.svg)
- <div align="center">
 
-# RENATA TINOCO
+<div align="center">
 
-### Gestão Estratégica · Liderança · Inteligência Artificial
+### Visão estratégica. Liderança. Inovação. Transformação.
 
-**Tecnologia aplicada aos negócios e desenvolvimento de pessoas.**
-
-*“A vida se organiza no movimento.”*
+| EXPERIÊNCIA PROFISSIONAL | FORMAÇÃO EXECUTIVA | DESENVOLVIMENTO CONTÍNUO |
+| :---: | :---: | :---: |
+| **20+ anos** | **2 MBAs** | **Psicologia** |
+| Gestão e operações | Projetos e estratégia | Graduação em andamento |
 
 </div>
 
 ---
 
-## Sobre mim
+## Perfil executivo
 
-Minha trajetória profissional reúne mais de 20 anos de experiência,
-construída a partir da gestão de operações, liderança de equipes,
-desenvolvimento de projetos e transformação de processos empresariais.
+Minha trajetória profissional é construída pela integração entre gestão estratégica, liderança, conhecimento técnico e inovação.
 
-Tenho como característica a inquietude diante de processos que podem
-ser melhorados. Gosto de questionar, investigar, conectar conhecimentos
-e transformar desafios em soluções práticas.
+Com mais de 20 anos de experiência, atuo na gestão de operações complexas, no desenvolvimento de equipes, na estruturação de projetos e na transformação de processos empresariais.
 
-Minha atuação integra visão estratégica, conhecimento técnico,
-comportamento humano e tecnologia, com foco na sustentabilidade
-dos resultados e no desenvolvimento das pessoas.
+Minha experiência contempla gestão de negócios, rentabilidade, capacidade operacional, indicadores de desempenho, conformidade e desenvolvimento de soluções tecnológicas.
 
-Acredito que a inteligência artificial, associada à experiência
-profissional e à visão de negócios, amplia nossa capacidade
-de criar, decidir e transformar.
+Tenho como característica a inquietude diante de processos que podem ser melhorados. Gosto de investigar, questionar, conectar conhecimentos e transformar necessidades empresariais em soluções práticas.
+
+Acredito que a tecnologia, quando associada à experiência e à visão estratégica, amplia nossa capacidade de decidir, criar e transformar.
 
 ---
 
-## Trajetória profissional
+## Competências estratégicas
 
-| Experiência | Conhecimento |
-|---|---|
-| Mais de 20 anos de experiência | Gestão de operações |
-| Liderança gerencial | Desenvolvimento de equipes |
-| Gestão estratégica | Indicadores e rentabilidade |
-| Gestão de projetos | Transformação de processos |
-| Tecnologia aplicada | Inovação e automação |
+| Gestão e liderança | Tecnologia e inovação |
+| :--- | :--- |
+| Gestão estratégica de negócios | Inteligência artificial aplicada |
+| Liderança de operações | Transformação digital |
+| Desenvolvimento de pessoas | Automação de processos |
+| Gestão de projetos | Desenvolvimento de soluções |
+| Gestão de rentabilidade | Inteligência de dados |
+| Planejamento operacional | Otimização de processos |
+| Gestão de riscos e conformidade | Integração de tecnologias |
+| Indicadores de desempenho | Digitalização de operações |
+
+---
+
+## Minha atuação
+
+### Estratégia e gestão de negócios
+
+Estruturação de operações, planejamento estratégico, análise de desempenho, gestão de recursos e identificação de oportunidades de crescimento e melhoria de resultados.
+
+### Liderança e desenvolvimento humano
+
+Desenvolvimento de equipes, gestão de desempenho, construção de ambientes colaborativos e incentivo à autonomia, ao conhecimento e à inovação.
+
+### Inteligência artificial e transformação digital
+
+Aplicação de tecnologias emergentes na resolução de desafios empresariais, desenvolvimento de ferramentas inteligentes e automação de atividades operacionais.
+
+### Inteligência financeira e operacional
+
+Análise de rentabilidade, capacidade produtiva, eficiência operacional, indicadores gerenciais e identificação de oportunidades financeiras.
+
+### Gestão de riscos e conformidade
+
+Estruturação de controles, revisão de processos, identificação de inconsistências e desenvolvimento de mecanismos preventivos.
 
 ---
 
 ## Formação acadêmica
 
-- Graduação em Gestão de Recursos Humanos
-- MBA em Gestão de Projetos
-- MBA em Gestão Estratégica de Negócios e Mercados
-- Graduação em Psicologia — em andamento
+| Formação | Área de conhecimento |
+| :--- | :--- |
+| Graduação | Gestão de Recursos Humanos |
+| MBA | Gestão de Projetos |
+| MBA | Gestão Estratégica de Negócios e Mercados |
+| Graduação em andamento | Psicologia |
+
+Minha formação em Psicologia complementa minha experiência em gestão, ampliando minha compreensão sobre comportamento humano, liderança, desenvolvimento de pessoas e tomada de decisão.
 
 ---
 
-## Áreas de atuação
-
-- Gestão estratégica de negócios
-- Liderança e desenvolvimento de pessoas
-- Inteligência artificial aplicada aos negócios
-- Gestão de projetos e inovação
-- Transformação digital
-- Automação e otimização de processos
-- Gestão de indicadores e resultados
-- Inteligência de dados e tomada de decisão
-- Gestão de riscos e conformidade
-- Tecnologia aplicada à folha de pagamento
-
----
-
-## Tecnologias e ferramentas
+## Tecnologia aplicada aos negócios
 
 <div align="center">
 
@@ -84,69 +94,87 @@ de criar, decidir e transformar.
 
 </div>
 
-Utilizo a tecnologia como instrumento para ampliar a capacidade
-operacional, simplificar processos, construir soluções e apoiar
-decisões estratégicas.
+Utilizo ferramentas de inteligência artificial, automação, análise de dados e desenvolvimento assistido para transformar conhecimento técnico e necessidades empresariais em soluções aplicáveis.
+
+Meu foco não está apenas na utilização da tecnologia, mas na identificação de onde ela pode gerar valor para os negócios.
 
 ---
 
-## Portfólio profissional
-
-Este espaço reúne projetos autorais, estudos, experimentos
-e demonstrações de soluções aplicadas aos negócios.
-
-### Inteligência gerencial
-
-Soluções voltadas à gestão de indicadores, acompanhamento de
-resultados e tomada de decisão.
-
-### Automação inteligente
-
-Aplicação da inteligência artificial na revisão, conferência
-e otimização de processos.
-
-### Gestão de pessoas
-
-Iniciativas que conectam liderança, desenvolvimento humano,
-conhecimento e tecnologia.
-
-### Inteligência de dados
-
-Análises que transformam informações operacionais em
-conhecimento estratégico.
-
-### Laboratório de inovação
-
-Espaço dedicado à experimentação de tecnologias e ao
-desenvolvimento de novas possibilidades.
-
----
-
-## Conhecimento em evolução
-
-- Psicologia e comportamento humano
-- Neurociência
-- Inteligência artificial
-- Liderança
-- Estratégia empresarial
-- Tecnologia e inovação
-
----
-
-## Minha filosofia
-
-Acredito na liderança que desenvolve pessoas, no conhecimento
-que gera oportunidades e na inovação que transforma realidades.
-
-Minha fé me direciona, o conhecimento me transforma
-e a curiosidade me mantém em movimento.
+## Minha metodologia de inovação
 
 <div align="center">
 
-### A vida se organiza no movimento.
+**OBSERVAR → QUESTIONAR → ESTRUTURAR → CONSTRUIR → VALIDAR → EVOLUIR**
 
-**Conhecimento que transforma.**
-**Estratégia que direciona.**
-**Inovação que gera resultados.**
+</div>
+
+| Etapa | Propósito |
+| :--- | :--- |
+| Observar | Compreender o cenário e identificar necessidades reais |
+| Questionar | Investigar processos e suas possibilidades de melhoria |
+| Estruturar | Organizar requisitos, objetivos e estratégias |
+| Construir | Transformar conhecimento em soluções |
+| Validar | Avaliar resultados, consistência e aplicabilidade |
+| Evoluir | Aprimorar continuamente a solução |
+
+---
+
+## Portfólio de inovação
+
+Este espaço é dedicado à apresentação de projetos autorais, estudos, experimentos tecnológicos e soluções demonstrativas aplicadas aos negócios.
+
+| Linha de desenvolvimento | Objetivo |
+| :--- | :--- |
+| Inteligência Gerencial | Transformar informações em decisões estratégicas |
+| Automação Inteligente | Reduzir retrabalho e ampliar a eficiência |
+| Inteligência de Dados | Estruturar análises e indicadores gerenciais |
+| Revisores Inteligentes | Aprimorar qualidade, conferência e controles |
+| Gestão do Conhecimento | Organizar e disseminar conhecimento |
+| Desenvolvimento Humano | Conectar psicologia, liderança e tecnologia |
+| Laboratório de Inovação | Explorar novas tecnologias e possibilidades |
+
+Os projetos pessoais e demonstrativos apresentados neste ambiente respeitam os princípios de confidencialidade, propriedade intelectual e proteção de dados.
+
+---
+
+## Conhecimento em constante evolução
+
+- Inteligência artificial e tecnologias emergentes
+- Estratégia empresarial
+- Psicologia e comportamento humano
+- Neurociência
+- Liderança e desenvolvimento de pessoas
+- Gestão da inovação
+- Transformação digital
+
+Acredito que o conhecimento não deve permanecer isolado. É na integração entre diferentes áreas que encontramos novas perspectivas e possibilidades de transformação.
+
+---
+
+## Minha essência
+
+Minha fé me direciona, o conhecimento me transforma e a curiosidade me mantém em movimento.
+
+Acredito na liderança que desenvolve pessoas, na estratégia que constrói possibilidades e na inovação que gera valor.
+
+Mais do que acompanhar transformações, busco participar da sua construção.
+
+---
+
+<div align="center">
+
+### Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-192D28?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-tinoco-bry/)
+
+---
+
+*Conhecimento que transforma.*
+
+*Estratégia que direciona.*
+
+*Inovação que gera resultados.*
+
+**Renata Tinoco**
 
 </div>
