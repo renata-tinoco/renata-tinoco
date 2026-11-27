@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+
+  <rect width="1200" height="320" rx="12" fill="#F7F4EF"/>
+  <rect x="0" y="0" width="9" height="320" fill="#C6AF87"/>
+
+  <text x="45" y="48" fill="#597563" font-family="Arial" font-size="15" letter-spacing="4">
+    IDENTIDADE PROFISSIONAL
+  </text>
+
+  <text x="45" y="105" fill="#192D28" font-family="Georgia, serif" font-size="43">
+    Experiência que constrói.
+  </text>
+
+  <text x="45" y="155" fill="#192D28" font-family="Georgia, serif" font-size="43" font-style="italic">
+    Conhecimento que transforma.
+  </text>
+
+  <line x1="45" y1="188" x2="1155" y2="188" stroke="#C6AF87"/>
+
+  <!-- Estratégia -->
+  <text x="45" y="228" fill="#927951" font-family="Arial" font-size="15">01</text>
+  <text x="45" y="263" fill="#192D28" font-family="Georgia, serif" font-size="30">Estratégia</text>
+  <text x="45" y="292" fill="#597563" font-family="Arial" font-size="20">Visão de negócios</text>
+
+  <!-- Pessoas -->
+  <text x="420" y="228" fill="#927951" font-family="Arial" font-size="15">02</text>
+  <text x="420" y="263" fill="#192D28" font-family="Georgia, serif" font-size="30">Pessoas</text>
+  <text x="420" y="292" fill="#597563" font-family="Arial" font-size="20">Liderança e desenvolvimento</text>
+
+  <!-- Tecnologia -->
+  <text x="795" y="228" fill="#927951" font-family="Arial" font-size="15">03</text>
+  <text x="795" y="263" fill="#192D28" font-family="Georgia, serif" font-size="30">Tecnologia</text>
+  <text x="795" y="292" fill="#597563" font-family="Arial" font-size="20">Inovação aplicada</text>
+
+</svg>
