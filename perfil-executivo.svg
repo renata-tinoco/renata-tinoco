@@ -1,7 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
 
-  <rect width="1200" height="320" rx="12" fill="#F7F4EF"/>
-  <rect x="0" y="0" width="9" height="320" fill="#C6AF87"/>
+  <defs>
+    <clipPath id="painel">
+      <rect width="1200" height="820" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#painel)">
+    <rect width="1200" height="820" fill="#F7F4EF"/>
+    <rect x="0" y="0" width="9" height="820" fill="#C6AF87"/>
+  </g>
 
   <text x="45" y="48" fill="#597563" font-family="Arial" font-size="15" letter-spacing="4">
     IDENTIDADE PROFISSIONAL
@@ -18,18 +26,81 @@
   <line x1="45" y1="188" x2="1155" y2="188" stroke="#C6AF87"/>
 
   <!-- Estratégia -->
+
   <text x="45" y="228" fill="#927951" font-family="Arial" font-size="15">01</text>
   <text x="45" y="263" fill="#192D28" font-family="Georgia, serif" font-size="30">Estratégia</text>
   <text x="45" y="292" fill="#597563" font-family="Arial" font-size="20">Visão de negócios</text>
 
   <!-- Pessoas -->
+
   <text x="420" y="228" fill="#927951" font-family="Arial" font-size="15">02</text>
   <text x="420" y="263" fill="#192D28" font-family="Georgia, serif" font-size="30">Pessoas</text>
   <text x="420" y="292" fill="#597563" font-family="Arial" font-size="20">Liderança e desenvolvimento</text>
 
   <!-- Tecnologia -->
+
   <text x="795" y="228" fill="#927951" font-family="Arial" font-size="15">03</text>
   <text x="795" y="263" fill="#192D28" font-family="Georgia, serif" font-size="30">Tecnologia</text>
   <text x="795" y="292" fill="#597563" font-family="Arial" font-size="20">Inovação aplicada</text>
+
+  <line x1="45" y1="320" x2="1155" y2="320" stroke="#C6AF87"/>
+
+  <!-- Perfil executivo completo -->
+
+  <g fill="#192D28" font-family="Arial, sans-serif" font-size="23">
+
+    <text x="45" y="370">
+      Com mais de <tspan font-weight="bold">30 anos de experiência profissional</tspan>, minha trajetória integra
+    </text>
+
+    <text x="45" y="404">
+      gestão estratégica, liderança, conhecimento técnico e inovação.
+    </text>
+
+    <text x="45" y="454">
+      Atuo na gestão de operações complexas, no desenvolvimento de equipes, na
+    </text>
+
+    <text x="45" y="488">
+      estruturação de projetos e na transformação de processos empresariais.
+    </text>
+
+    <text x="45" y="538">
+      Minha experiência contempla gestão de negócios, rentabilidade, capacidade operacional,
+    </text>
+
+    <text x="45" y="572">
+      indicadores de desempenho, conformidade e desenvolvimento de soluções tecnológicas.
+    </text>
+
+    <text x="45" y="622">
+      Tenho como característica a inquietude diante de processos que podem ser melhorados.
+    </text>
+
+    <text x="45" y="656">
+      Gosto de investigar, questionar, conectar conhecimentos e transformar necessidades
+    </text>
+
+    <text x="45" y="690">
+      empresariais em soluções práticas.
+    </text>
+
+  </g>
+
+  <line x1="45" y1="720" x2="1155" y2="720" stroke="#C6AF87"/>
+
+  <!-- Visão profissional -->
+
+  <g fill="#806A46" font-family="Georgia, serif" font-size="25" font-style="italic">
+
+    <text x="45" y="762">
+      Acredito que a tecnologia, quando associada à experiência e à visão estratégica,
+    </text>
+
+    <text x="45" y="794">
+      amplia nossa capacidade de decidir, criar e transformar.
+    </text>
+
+  </g>
 
 </svg>
