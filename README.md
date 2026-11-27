@@ -20,14 +20,9 @@ Gestão de projetos, planejamento operacional, gestão de riscos e conformidade,
 
 ![Tecnologia Aplicada aos Negócios](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-tecnologia.svg?v=d1b732154d7b)
 
-![Python, Claude, ChatGPT, Cursor, GitHub, Power BI, Power Automate e Streamlit](./visual-pessoal/tecnologias.svg)
-
-Utilizo ferramentas de automação, gestão, análise de dados e inteligência artificial para organizar operações e transformar necessidades de negócio em soluções práticas.
-
-- **Automação no-code e low-code** — Pipefy e Microsoft Power Automate para estruturar fluxos, automatizar tarefas recorrentes e encaminhar aprovações.
-- **Gestão de projetos e colaboração** — Trello e Microsoft Planner para organizar demandas, responsáveis e prazos. Microsoft Viva Engage para comunicação interna e troca de conhecimento.
-- **Inteligência artificial aplicada** — ChatGPT, Claude e Google Gemini para apoiar pesquisa, síntese, estruturação de ideias e desenvolvimento de soluções.
-- **Dados e desenvolvimento** — Power BI para acompanhar indicadores, Python e Streamlit para análises e protótipos, Cursor para desenvolvimento assistido e GitHub para versionamento.
+Python · SQL · Streamlit · Cursor · GitHub  
+Claude · ChatGPT · Google Gemini  
+Pipefy · Trello · Microsoft Planner · Microsoft Power Automate · Power BI · Microsoft Viva Engage
 
 ---
 
