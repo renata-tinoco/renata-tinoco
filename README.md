@@ -1,6 +1,6 @@
 ![Renata Tinoco — Identidade profissional](./visual-pessoal/banner.svg)
 
-![Mais de 30 anos de experiência em Departamento Pessoal e Folha de Pagamento. Graduação em Gestão de Recursos Humanos, MBA em Gestão de Projetos, MBA em Gestão Estratégica de Negócios e Mercados e graduação em Psicologia em andamento.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/97b54e3a106e67b9fa4515391b1f8ca6ae497d70/visual-pessoal/experiencia.svg)
+![Mais de 30 anos de experiência em Departamento Pessoal e Folha de Pagamento. Graduação em Gestão de Recursos Humanos e graduação em Psicologia em andamento. MBA em Gestão de Projetos e MBA em Gestão Estratégica de Negócios e Mercados.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/be74adebf5a73a74384e576348dff2dbe5ff7007/visual-pessoal/experiencia.svg)
 
 **Departamento Pessoal e Folha de Pagamento** · Gestão de operações, liderança de equipes e melhoria de processos.
 
