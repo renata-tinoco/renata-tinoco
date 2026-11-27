@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
 
   <defs>
     <clipPath id="painel">
-      <rect width="1200" height="820" rx="14"/>
+      <rect width="1200" height="310" rx="14"/>
     </clipPath>
   </defs>
 
   <!-- Fundo e barra lateral -->
 
   <g clip-path="url(#painel)">
-    <rect width="1200" height="820" fill="#F3F5F5"/>
-    <rect x="0" y="0" width="9" height="820" fill="#26D07C"/>
+    <rect width="1200" height="310" fill="#F3F5F5"/>
+    <rect x="0" y="0" width="9" height="310" fill="#26D07C"/>
   </g>
 
   <!-- Identidade profissional -->
@@ -31,66 +31,18 @@
 
   <!-- Estratégia -->
 
-  <text x="45" y="228" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="15">01</text>
-  <text x="45" y="263" fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="30">Estratégia</text>
-  <text x="45" y="292" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="20">Visão de negócios</text>
+  <text x="45" y="241" fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="30">Estratégia</text>
+  <text x="45" y="274" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="20">Visão de negócios</text>
 
   <!-- Pessoas -->
 
-  <text x="420" y="228" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="15">02</text>
-  <text x="420" y="263" fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="30">Pessoas</text>
-  <text x="420" y="292" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="20">Liderança e desenvolvimento</text>
+  <text x="420" y="241" fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="30">Pessoas</text>
+  <text x="420" y="274" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="20">Liderança e desenvolvimento</text>
 
   <!-- Tecnologia -->
 
-  <text x="795" y="228" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="15">03</text>
-  <text x="795" y="263" fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="30">Tecnologia</text>
-  <text x="795" y="292" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="20">Inovação aplicada</text>
+  <text x="795" y="241" fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="30">Tecnologia</text>
+  <text x="795" y="274" fill="#087844" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="20">Inovação aplicada</text>
 
-  <line x1="45" y1="320" x2="1155" y2="320" stroke="#26D07C"/>
 
-  <!-- Perfil executivo com alinhamento justificado -->
-
-  <g fill="#0B1B24" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="24">
-
-    <text x="45" y="370" textLength="1110" lengthAdjust="spacing">
-      Com mais de <tspan font-weight="bold">30 anos de experiência profissional</tspan>, minha trajetória integra gestão
-    </text>
-
-    <text x="45" y="404">
-      estratégica, liderança, conhecimento técnico e inovação.
-    </text>
-
-    <text x="45" y="454" textLength="1110" lengthAdjust="spacing">
-      Atuo na gestão de operações complexas, no desenvolvimento de equipes, na estruturação
-    </text>
-
-    <text x="45" y="488">
-      de projetos e na transformação de processos empresariais.
-    </text>
-
-    <text x="45" y="538" textLength="1110" lengthAdjust="spacing">
-      Minha experiência contempla gestão de negócios, rentabilidade, capacidade operacional,
-    </text>
-
-    <text x="45" y="572">
-      indicadores de desempenho, conformidade e desenvolvimento de soluções tecnológicas.
-    </text>
-
-    <text x="45" y="622" textLength="1110" lengthAdjust="spacing">
-      Tenho como característica a inquietude diante de processos que podem ser melhorados.
-    </text>
-
-    <text x="45" y="656" textLength="1110" lengthAdjust="spacing">
-      Gosto de investigar, questionar, conectar conhecimentos e transformar necessidades
-    </text>
-
-    <text x="45" y="690">
-      empresariais em soluções práticas.
-    </text>
-
-  </g>
-
-  
-
-<line x1="45" y1="720" x2="1155" y2="720" stroke="#26D07C"/><text x="45" y="762" font-size="25" fill="#087844" font-weight="normal" >Acredito que a tecnologia, quando associada à experiência e à visão estratégica,</text><text x="45" y="794" font-size="25" fill="#087844" font-weight="normal" >amplia nossa capacidade de decidir, criar e transformar.</text></svg>
+</svg>
