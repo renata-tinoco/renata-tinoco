@@ -1,15 +1,6 @@
 ![Renata Tinoco — Identidade profissional](./banner.svg)
 
-<div align="center">
-
-### Visão estratégica. Liderança. Inovação. Transformação.
-
-| EXPERIÊNCIA PROFISSIONAL | FORMAÇÃO EXECUTIVA | DESENVOLVIMENTO CONTÍNUO |
-| :---: | :---: | :---: |
-| **20+ anos** | **2 MBAs** | **Psicologia** |
-| Gestão e operações | Projetos e estratégia | Graduação em andamento |
-
-</div>
+![Experiência profissional e formação acadêmica](./experiencia.svg)
 
 ---
 
