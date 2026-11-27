@@ -20,16 +20,13 @@ Acredito que a tecnologia, quando associada à experiência e à visão estraté
 
 ## Competências estratégicas
 
-| Gestão e liderança | Tecnologia e inovação |
-| :--- | :--- |
-| Gestão estratégica de negócios | Inteligência artificial aplicada |
-| Liderança de operações | Transformação digital |
-| Desenvolvimento de pessoas | Automação de processos |
-| Gestão de projetos | Desenvolvimento de soluções |
-| Gestão de rentabilidade | Inteligência de dados |
-| Planejamento operacional | Otimização de processos |
-| Gestão de riscos e conformidade | Integração de tecnologias |
-| Indicadores de desempenho | Digitalização de operações |
+## Competências estratégicas
+
+![Gestão estratégica, liderança, inteligência artificial, gestão de resultados, automação de processos e transformação digital](./competencias.svg)
+
+Gestão de projetos, planejamento operacional, gestão de riscos e conformidade, inteligência de dados, integração de tecnologias e digitalização de operações.
+
+---
 
 ---
 
