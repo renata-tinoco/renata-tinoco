@@ -4,7 +4,7 @@
 
 ---
 
-## Perfil executivo
+![Perfil executivo](./titulo-perfil.svg)
 
 ![Perfil executivo — Gestão estratégica, liderança e inovação](./perfil-executivo-v3.svg)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Competências Estratégicas
+![Competências estratégicas](./titulo-competencias.svg)
 
 ![Gestão estratégica, liderança, inteligência artificial, gestão de resultados, automação de processos e transformação digital](./competencias.svg)
 
@@ -22,7 +22,7 @@ Gestão de projetos, planejamento operacional, gestão de riscos e conformidade,
 
 ---
 
-## Minha Atuação
+![Minha atuação](./titulo-atuacao.svg)
 
 ### Estratégia e Gestão de Negócios
 
@@ -46,7 +46,7 @@ Estruturação de controles, revisão de processos, identificação de inconsist
 
 ---
 
-## Formação Acadêmica
+![Formação acadêmica](./titulo-formacao.svg)
 
 ![Graduação em Gestão de Recursos Humanos, MBA em Gestão de Projetos, MBA em Gestão Estratégica de Negócios e Mercados e graduação em Psicologia em andamento](./formacao.svg)
 
@@ -54,7 +54,7 @@ Minha formação multidisciplinar integra gestão, estratégia empresarial e com
 
 ---
 
-## Tecnologia Aplicada aos Negócios
+![Tecnologia aplicada aos negócios](./titulo-tecnologia.svg)
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Meu foco não está apenas na utilização da tecnologia, mas na identificação
 
 ---
 
-## Minha Metodologia de Inovação
+![Minha metodologia de inovação](./titulo-metodologia.svg)
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Meu foco não está apenas na utilização da tecnologia, mas na identificação
 
 ---
 
-## Portfólio de Inovação
+![Portfólio de inovação](./titulo-portfolio.svg)
 
 Este espaço é dedicado à apresentação de projetos autorais, estudos, experimentos tecnológicos e soluções demonstrativas aplicadas aos negócios.
 
@@ -112,7 +112,7 @@ Os projetos pessoais e demonstrativos apresentados neste ambiente respeitam os p
 
 ---
 
-## Conhecimento em Constante Evolução
+![Conhecimento em constante evolução](./titulo-conhecimento.svg)
 
 - Inteligência artificial e tecnologias emergentes
 - Estratégia empresarial
@@ -126,7 +126,7 @@ Acredito que o conhecimento não deve permanecer isolado. É na integração ent
 
 ---
 
-## Minha Essência
+![Minha essência](./titulo-essencia.svg)
 
 Minha fé me direciona, o conhecimento me transforma e a curiosidade me mantém em movimento.
 
@@ -138,7 +138,7 @@ Mais do que acompanhar transformações, busco participar da sua construção.
 
 <div align="center">
 
-### Conecte-se Comigo
+![Conecte-se comigo](./titulo-contato.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-192D28?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-tinoco-bry/)
 
