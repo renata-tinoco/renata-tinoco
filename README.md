@@ -1,6 +1,6 @@
 ![Renata Tinoco — Identidade profissional](./banner.svg)
 
-![Experiência profissional e formação acadêmica](./experiencia.svg?v=2)
+![Mais de 30 anos de experiência e formação acadêmica](./experiencia-v2.svg)
 
 ---
 
