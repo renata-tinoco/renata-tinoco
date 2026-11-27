@@ -4,9 +4,9 @@
 
 ---
 
-## Perfil Executivo
+## Perfil executivo
 
-![Experiência que constrói. Conhecimento que transforma.](./perfil-executivo.svg)
+![Perfil executivo — Gestão estratégica, liderança e inovação](./perfil-executivo-v3.svg)
 
 ![Acredito que a tecnologia, quando associada à experiência e à visão estratégica, amplia nossa capacidade de decidir, criar e transformar.](./visao-executiva.svg)
 
