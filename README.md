@@ -4,9 +4,17 @@
 
 ---
 
-![Perfil executivo](./visual-pessoal/titulo-perfil.svg)
+![Perfil executivo](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/ca7db996b576e00a128f570c86fa72a8b2441ccc/visual-pessoal/titulo-perfil.svg)
 
-![Perfil executivo — Gestão estratégica, liderança e inovação](./visual-pessoal/perfil-executivo.svg)
+![Identidade profissional: estratégia para os negócios, liderança e desenvolvimento de pessoas e tecnologia aplicada aos processos.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/ca7db996b576e00a128f570c86fa72a8b2441ccc/visual-pessoal/perfil-executivo.svg)
+
+Durante anos, ouvi que “tudo é culpa do DP”. Também ouvi, muitas vezes, que o Departamento Pessoal e a Folha de Pagamento raramente recebiam o reconhecimento que mereciam. Vi colegas da própria área se acostumarem com essa visão e passarem a atuar dentro do papel que os outros esperavam de nós.
+
+Para mim, isso nunca fez sentido. Eu amo o que faço. Se quero que esse trabalho seja valorizado, preciso começar por valorizá-lo e agir para que sua contribuição apareça. Quero que as pessoas que trabalham em DP sintam orgulho do que fazem e reconheçam a complexidade das decisões que tomam todos os dias.
+
+Ao longo de mais de 30 anos de experiência, aprendi que, quando uma regra muda e o sistema ainda não está preparado, a folha continua tendo prazo. A equipe precisa entender a mudança, encontrar um caminho, conferir os cálculos e garantir que as pessoas recebam corretamente. Muitas vezes, o “dar um jeito” envolve análise, responsabilidade e colaboração que pouca gente vê.
+
+Foi nesse contexto que a tecnologia entrou na minha vida profissional. Passei a usá-la para automatizar tarefas repetitivas, criar conferências e tornar os processos mais fáceis de acompanhar. Assim, a equipe ganha tempo para investigar exceções, tomar decisões e mostrar o impacto do seu trabalho, com a experiência de quem conhece a operação de perto.
 
 ---
 
