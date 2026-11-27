@@ -18,41 +18,6 @@ Gestão de projetos, planejamento operacional, gestão de riscos e conformidade,
 
 ---
 
-![Minha Atuação](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-atuacao.svg?v=d1b732154d7b)
-
-![Áreas de atuação profissional](./visual-pessoal/atuacao.svg)
-
-### Departamento Pessoal e Folha de Pagamento
-
-Atuação na gestão de rotinas de Departamento Pessoal e de operações de folha de pagamento, com foco em organização dos fluxos, conferência de informações, cumprimento de prazos e melhoria de processos.
-
-<details>
-<summary>Consultar conteúdo em texto</summary>
-
-### Estratégia e Gestão de Negócios
-
-Estruturação de operações, planejamento estratégico, análise de desempenho, gestão de recursos e identificação de oportunidades de crescimento e melhoria de resultados.
-
-### Liderança e Desenvolvimento Humano
-
-Desenvolvimento de equipes, gestão de desempenho, construção de ambientes colaborativos e incentivo à autonomia, ao conhecimento e à inovação.
-
-### Inteligência Artificial e Transformação Digital
-
-Aplicação de tecnologias emergentes na resolução de desafios empresariais, desenvolvimento de ferramentas inteligentes e automação de atividades operacionais.
-
-### Inteligência Financeira e Operacional
-
-Análise de rentabilidade, capacidade produtiva, eficiência operacional, indicadores gerenciais e identificação de oportunidades financeiras.
-
-### Gestão de Riscos e Conformidade
-
-Estruturação de controles, revisão de processos, identificação de inconsistências e desenvolvimento de mecanismos preventivos.
-
-</details>
-
----
-
 ![Tecnologia Aplicada aos Negócios](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-tecnologia.svg?v=d1b732154d7b)
 
 ![Python, Claude, ChatGPT, Cursor, GitHub, Power BI, Power Automate e Streamlit](./visual-pessoal/tecnologias.svg)
