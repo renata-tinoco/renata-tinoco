@@ -6,20 +6,7 @@
 
 ![Minha Trajetória](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/6989a7a9bba16aedd26a2d16bfbbacd851757a8c/visual-pessoal/titulo-perfil.svg)
 
-![Identidade profissional e trajetória de Renata em Departamento Pessoal, Folha de Pagamento e tecnologia. Versão em texto disponível a seguir.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/c29568c777e2f41a939575cc76e9b1599d37a3a3/visual-pessoal/perfil-executivo.svg)
-
-<details>
-<summary>Ler Minha Trajetória em texto</summary>
-
-Durante anos, ouvi que “tudo é culpa do DP”. Vi o Departamento Pessoal e a Folha de Pagamento receberem pouco reconhecimento e colegas da própria área se acostumarem com essa visão. Para mim, isso nunca fez sentido. Eu amo o que faço e quero que quem trabalha ao meu lado sinta orgulho de fazer parte dessa área.
-
-Quem vive a folha sabe como é quando a regra muda, o sistema ainda não está pronto e o prazo continua correndo. Ainda assim, a gente encontra uma saída e garante que cada pessoa receba corretamente. Foi dessa necessidade de dar um jeito que nasceu a minha forma de usar tecnologia.
-
-Se tenho centenas de férias para processar, preparo o lançamento em lote. Se a folha precisa de revisão, monto um revisor que cruza os dados e sinaliza divergências. Se a implantação exige um layout que o sistema de origem não entrega, transformo os dados no formato necessário e confiro o arquivo antes da carga.
-
-É isso que eu levo para a operação: conheço a rotina por dentro e sei transformar seus gargalos em soluções. Quando a tecnologia assume o trabalho repetitivo, a equipe ganha tempo para investigar, decidir e mostrar o valor do que faz.
-
-</details>
+![Identidade profissional e trajetória de Renata em Departamento Pessoal, Folha de Pagamento e tecnologia.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/c29568c777e2f41a939575cc76e9b1599d37a3a3/visual-pessoal/perfil-executivo.svg)
 
 ---
 
