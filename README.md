@@ -20,25 +20,6 @@
 
 ![Linhas de desenvolvimento e inovação](./visual-pessoal/portfolio.svg)
 
-<details>
-<summary>Consultar conteúdo em texto</summary>
-
-Este espaço é dedicado à apresentação de projetos autorais, estudos, experimentos tecnológicos e soluções demonstrativas aplicadas aos negócios.
-
-| Linha de desenvolvimento | Objetivo |
-| :--- | :--- |
-| Inteligência Gerencial | Transformar informações em decisões estratégicas |
-| Automação Inteligente | Reduzir retrabalho e ampliar a eficiência |
-| Inteligência de Dados | Estruturar análises e indicadores gerenciais |
-| Revisores Inteligentes | Aprimorar qualidade, conferência e controles |
-| Gestão do Conhecimento | Organizar e disseminar conhecimento |
-| Desenvolvimento Humano | Conectar psicologia, liderança e tecnologia |
-| Laboratório de Inovação | Explorar novas tecnologias e possibilidades |
-
-Os projetos pessoais e demonstrativos apresentados neste ambiente respeitam os princípios de confidencialidade, propriedade intelectual e proteção de dados.
-
-</details>
-
 ---
 
 ![Minha Essência](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-essencia.svg?v=d1b732154d7b)
