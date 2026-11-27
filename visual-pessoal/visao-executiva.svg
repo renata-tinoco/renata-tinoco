@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+
+  <rect width="1200" height="190" rx="14" fill="#0B1B24"/>
+
+  <text x="40" y="78" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="95" fill="#26D07C">“</text>
+
+  <g font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="29" font-style="normal" fill="#26D07C">
+    <text x="115" y="55">Acredito que a tecnologia, quando associada à</text>
+    <text x="115" y="95">experiência e à visão estratégica, amplia nossa</text>
+    <text x="115" y="135">capacidade de decidir, criar e transformar.</text>
+  </g>
+
+  <line x1="115" y1="155" x2="185" y2="155" stroke="#26D07C"/>
+
+</svg>

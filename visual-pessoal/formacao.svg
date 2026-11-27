@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+
+  <!-- Graduação em Recursos Humanos -->
+  <g transform="translate(5,5)">
+    <rect width="1190" height="118" rx="14" fill="#F3F5F5"/>
+    <text x="45" y="74" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="45" fill="#087844">01</text>
+    <line x1="125" y1="22" x2="125" y2="96" stroke="#26D07C" opacity="0.5"/>
+    <text x="158" y="30" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#087844">GRADUAÇÃO</text>
+    <text x="158" y="67" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="32" fill="#0B1B24">Gestão de Recursos Humanos</text>
+    <text x="158" y="96" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="19" fill="#0B1B24">Formação superior concluída</text>
+  </g>
+
+  <!-- MBA em Gestão de Projetos -->
+  <g transform="translate(5,135)">
+    <rect width="1190" height="118" rx="14" fill="#F3F5F5"/>
+    <text x="45" y="74" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="45" fill="#087844">02</text>
+    <line x1="125" y1="22" x2="125" y2="96" stroke="#26D07C" opacity="0.5"/>
+    <text x="158" y="30" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#087844">MBA</text>
+    <text x="158" y="67" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="32" fill="#0B1B24">Gestão de Projetos</text>
+    <text x="158" y="96" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="19" fill="#0B1B24">Especialização executiva</text>
+  </g>
+
+  <!-- MBA em Gestão Estratégica -->
+  <g transform="translate(5,265)">
+    <rect width="1190" height="118" rx="14" fill="#F3F5F5"/>
+    <text x="45" y="74" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="45" fill="#087844">03</text>
+    <line x1="125" y1="22" x2="125" y2="96" stroke="#26D07C" opacity="0.5"/>
+    <text x="158" y="30" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#087844">MBA</text>
+    <text x="158" y="67" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="32" fill="#0B1B24">Gestão Estratégica de Negócios e Mercados</text>
+    <text x="158" y="96" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="19" fill="#0B1B24">Especialização executiva</text>
+  </g>
+
+  <!-- Graduação em Psicologia -->
+  <g transform="translate(5,395)">
+    <rect width="1190" height="118" rx="14" fill="#F3F5F5"/>
+    <text x="45" y="74" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="45" fill="#087844">04</text>
+    <line x1="125" y1="22" x2="125" y2="96" stroke="#26D07C" opacity="0.5"/>
+    <text x="158" y="30" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#087844">GRADUAÇÃO</text>
+    <text x="158" y="67" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="32" fill="#0B1B24">Psicologia</text>
+    <text x="158" y="96" font-family="Encode Sans, Roboto, Arial, sans-serif" font-size="19" fill="#0B1B24">Em andamento</text>
+  </g>
+
+</svg>
