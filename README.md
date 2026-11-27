@@ -6,7 +6,7 @@
 
 ![Perfil executivo](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/ca7db996b576e00a128f570c86fa72a8b2441ccc/visual-pessoal/titulo-perfil.svg)
 
-![Identidade profissional e trajetória de Renata em Departamento Pessoal, Folha de Pagamento e tecnologia. Versão em texto disponível a seguir.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/cfe0158d921e0f0f78eb6abf0ca8307c7bb73adb/visual-pessoal/perfil-executivo.svg)
+![Identidade profissional e trajetória de Renata em Departamento Pessoal, Folha de Pagamento e tecnologia. Versão em texto disponível a seguir.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/c29568c777e2f41a939575cc76e9b1599d37a3a3/visual-pessoal/perfil-executivo.svg)
 
 <details>
 <summary>Ler o Perfil executivo em texto</summary>
