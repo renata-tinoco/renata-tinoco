@@ -41,27 +41,6 @@ Os projetos pessoais e demonstrativos apresentados neste ambiente respeitam os p
 
 ---
 
-![Conhecimento em Constante Evolução](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-conhecimento.svg?v=d1b732154d7b)
-
-![Áreas de conhecimento em constante evolução](./visual-pessoal/conhecimento.svg)
-
-<details>
-<summary>Consultar conteúdo em texto</summary>
-
-- Inteligência artificial e tecnologias emergentes
-- Estratégia empresarial
-- Psicologia e comportamento humano
-- Neurociência
-- Liderança e desenvolvimento de pessoas
-- Gestão da inovação
-- Transformação digital
-
-Acredito que o conhecimento não deve permanecer isolado. É na integração entre diferentes áreas que encontramos novas perspectivas e possibilidades de transformação.
-
-</details>
-
----
-
 ![Minha Essência](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-essencia.svg?v=d1b732154d7b)
 
 ![Minha essência profissional e pessoal](./visual-pessoal/essencia.svg)
