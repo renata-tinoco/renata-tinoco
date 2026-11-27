@@ -4,7 +4,7 @@
 
 ---
 
-![Perfil executivo](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/ca7db996b576e00a128f570c86fa72a8b2441ccc/visual-pessoal/titulo-perfil.svg)
+![Perfil Executivo](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-perfil.svg?v=d1b732154d7b)
 
 ![Identidade profissional e trajetória de Renata em Departamento Pessoal, Folha de Pagamento e tecnologia. Versão em texto disponível a seguir.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/c29568c777e2f41a939575cc76e9b1599d37a3a3/visual-pessoal/perfil-executivo.svg)
 
@@ -23,7 +23,7 @@ Se tenho centenas de férias para processar, preparo o lançamento em lote. Se a
 
 ---
 
-![Competências estratégicas](./visual-pessoal/titulo-competencias.svg)
+![Competências Estratégicas](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-competencias.svg?v=d1b732154d7b)
 
 ![Gestão estratégica, liderança, inteligência artificial, gestão de resultados, automação de processos e transformação digital](./visual-pessoal/competencias.svg)
 
@@ -31,7 +31,7 @@ Gestão de projetos, planejamento operacional, gestão de riscos e conformidade,
 
 ---
 
-![Minha atuação](./visual-pessoal/titulo-atuacao.svg)
+![Minha Atuação](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-atuacao.svg?v=d1b732154d7b)
 
 ![Áreas de atuação profissional](./visual-pessoal/atuacao.svg)
 
@@ -66,7 +66,7 @@ Estruturação de controles, revisão de processos, identificação de inconsist
 
 ---
 
-![Tecnologia aplicada aos negócios](./visual-pessoal/titulo-tecnologia.svg)
+![Tecnologia Aplicada aos Negócios](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-tecnologia.svg?v=d1b732154d7b)
 
 ![Python, Claude, ChatGPT, Cursor, GitHub, Power BI, Power Automate e Streamlit](./visual-pessoal/tecnologias.svg)
 
@@ -79,7 +79,7 @@ Utilizo ferramentas de automação, gestão, análise de dados e inteligência a
 
 ---
 
-![Minha metodologia de inovação](./visual-pessoal/titulo-metodologia.svg)
+![Minha Metodologia de Inovação](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-metodologia.svg?v=d1b732154d7b)
 
 ![Observar, questionar, estruturar, construir, validar e evoluir](./visual-pessoal/metodologia.svg)
 
@@ -96,7 +96,7 @@ Aplico minha metodologia de inovação para entender a operação, estruturar me
 
 ---
 
-![Portfólio de inovação](./visual-pessoal/titulo-portfolio.svg)
+![Portfólio de Inovação](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-portfolio.svg?v=d1b732154d7b)
 
 ![Linhas de desenvolvimento e inovação](./visual-pessoal/portfolio.svg)
 
@@ -121,7 +121,7 @@ Os projetos pessoais e demonstrativos apresentados neste ambiente respeitam os p
 
 ---
 
-![Conhecimento em constante evolução](./visual-pessoal/titulo-conhecimento.svg)
+![Conhecimento em Constante Evolução](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-conhecimento.svg?v=d1b732154d7b)
 
 ![Áreas de conhecimento em constante evolução](./visual-pessoal/conhecimento.svg)
 
@@ -142,7 +142,7 @@ Acredito que o conhecimento não deve permanecer isolado. É na integração ent
 
 ---
 
-![Minha essência](./visual-pessoal/titulo-essencia.svg)
+![Minha Essência](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-essencia.svg?v=d1b732154d7b)
 
 ![Minha essência profissional e pessoal](./visual-pessoal/essencia.svg)
 
@@ -161,7 +161,7 @@ Mais do que acompanhar transformações, busco participar da sua construção.
 
 <div align="center">
 
-![Conecte-se comigo](./visual-pessoal/titulo-contato.svg)
+![Conecte-se Comigo](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/main/visual-pessoal/titulo-contato.svg?v=d1b732154d7b)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1B24?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-tinoco-bry/)
 
