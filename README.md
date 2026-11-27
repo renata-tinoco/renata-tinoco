@@ -4,7 +4,7 @@
 
 ---
 
-## Perfil executivo
+## Perfil Executivo
 
 ![Experiência que constrói. Conhecimento que transforma.](./perfil-executivo.svg)
 
@@ -20,7 +20,7 @@ Tenho como característica a inquietude diante de processos que podem ser melhor
 
 ---
 
-## Competências estratégicas
+## Competências Estratégicas
 
 ![Gestão estratégica, liderança, inteligência artificial, gestão de resultados, automação de processos e transformação digital](./competencias.svg)
 
@@ -30,31 +30,31 @@ Gestão de projetos, planejamento operacional, gestão de riscos e conformidade,
 
 ---
 
-## Minha atuação
+## Minha Atuação
 
-### Estratégia e gestão de negócios
+### Estratégia e Gestão de Negócios
 
 Estruturação de operações, planejamento estratégico, análise de desempenho, gestão de recursos e identificação de oportunidades de crescimento e melhoria de resultados.
 
-### Liderança e desenvolvimento humano
+### Liderança e Desenvolvimento Humano
 
 Desenvolvimento de equipes, gestão de desempenho, construção de ambientes colaborativos e incentivo à autonomia, ao conhecimento e à inovação.
 
-### Inteligência artificial e transformação digital
+### Inteligência Artificial e Transformação Digital
 
 Aplicação de tecnologias emergentes na resolução de desafios empresariais, desenvolvimento de ferramentas inteligentes e automação de atividades operacionais.
 
-### Inteligência financeira e operacional
+### Inteligência Financeira e Operacional
 
 Análise de rentabilidade, capacidade produtiva, eficiência operacional, indicadores gerenciais e identificação de oportunidades financeiras.
 
-### Gestão de riscos e conformidade
+### Gestão de Riscos e Conformidade
 
 Estruturação de controles, revisão de processos, identificação de inconsistências e desenvolvimento de mecanismos preventivos.
 
 ---
 
-## Formação acadêmica
+## Formação Acadêmica
 
 ![Graduação em Gestão de Recursos Humanos, MBA em Gestão de Projetos, MBA em Gestão Estratégica de Negócios e Mercados e graduação em Psicologia em andamento](./formacao.svg)
 
@@ -62,7 +62,7 @@ Minha formação multidisciplinar integra gestão, estratégia empresarial e com
 
 ---
 
-## Tecnologia aplicada aos negócios
+## Tecnologia Aplicada aos Negócios
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Meu foco não está apenas na utilização da tecnologia, mas na identificação
 
 ---
 
-## Minha metodologia de inovação
+## Minha Metodologia de Inovação
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Meu foco não está apenas na utilização da tecnologia, mas na identificação
 
 ---
 
-## Portfólio de inovação
+## Portfólio de Inovação
 
 Este espaço é dedicado à apresentação de projetos autorais, estudos, experimentos tecnológicos e soluções demonstrativas aplicadas aos negócios.
 
@@ -120,7 +120,7 @@ Os projetos pessoais e demonstrativos apresentados neste ambiente respeitam os p
 
 ---
 
-## Conhecimento em constante evolução
+## Conhecimento em Constante Evolução
 
 - Inteligência artificial e tecnologias emergentes
 - Estratégia empresarial
@@ -134,7 +134,7 @@ Acredito que o conhecimento não deve permanecer isolado. É na integração ent
 
 ---
 
-## Minha essência
+## Minha Essência
 
 Minha fé me direciona, o conhecimento me transforma e a curiosidade me mantém em movimento.
 
@@ -146,7 +146,7 @@ Mais do que acompanhar transformações, busco participar da sua construção.
 
 <div align="center">
 
-### Conecte-se comigo
+### Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-192D28?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-tinoco-bry/)
 
