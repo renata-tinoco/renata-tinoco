@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" font-family="Encode Sans, Roboto, Arial, sans-serif"><rect x="5" y="5" width="390" height="210" rx="12" fill="#0B1B24"/><rect x="30" y="25" width="40" height="5" rx="2" fill="#26D07C"/><text x="30" y="98" font-size="48" fill="#26D07C" font-weight="bold" >30+</text><text x="30" y="147" font-size="17" fill="#FFFFFF" font-weight="bold" >ANOS DE EXPERIÊNCIA</text><text x="30" y="181" font-size="20" fill="#D9D9D6" font-weight="normal" >Gestão e operações</text><rect x="405" y="5" width="390" height="210" rx="12" fill="#0B1B24"/><rect x="430" y="25" width="40" height="5" rx="2" fill="#26D07C"/><text x="430" y="98" font-size="48" fill="#26D07C" font-weight="bold" >2 MBAs</text><text x="430" y="147" font-size="17" fill="#FFFFFF" font-weight="bold" >FORMAÇÃO EXECUTIVA</text><text x="430" y="181" font-size="20" fill="#D9D9D6" font-weight="normal" >Projetos e estratégia</text><rect x="805" y="5" width="390" height="210" rx="12" fill="#0B1B24"/><rect x="830" y="25" width="40" height="5" rx="2" fill="#26D07C"/><text x="830" y="98" font-size="48" fill="#26D07C" font-weight="bold" >Psicologia</text><text x="830" y="147" font-size="17" fill="#FFFFFF" font-weight="bold" >DESENVOLVIMENTO CONTÍNUO</text><text x="830" y="181" font-size="20" fill="#D9D9D6" font-weight="normal" >Graduação em andamento</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" font-family="Encode Sans, Roboto, Arial, sans-serif">
+<rect x="5" y="5" width="390" height="210" rx="12" fill="#0B1B24"/>
+<rect x="30" y="25" width="40" height="5" rx="2" fill="#26D07C"/>
+<text x="30" y="98" font-size="48" fill="#26D07C" font-weight="bold" >30+</text>
+<text x="30" y="147" font-size="17" fill="#FFFFFF" font-weight="bold" >ANOS DE EXPERIÊNCIA</text>
+<text x="30" y="181" font-size="20" fill="#D9D9D6" font-weight="normal" >Gestão e operações</text>
+<rect x="405" y="5" width="390" height="210" rx="12" fill="#0B1B24"/>
+<rect x="430" y="25" width="40" height="5" rx="2" fill="#26D07C"/>
+<text x="430" y="70" font-size="27" fill="#26D07C" font-weight="bold">2 MBAs</text>
+<text x="430" y="108" font-size="20" fill="#FFFFFF" font-weight="bold">MBA em Gestão de Projetos</text>
+<text x="430" y="149" font-size="20" fill="#FFFFFF" font-weight="bold">MBA em Gestão Estratégica</text>
+<text x="430" y="177" font-size="20" fill="#FFFFFF" font-weight="bold">de Negócios e Mercados</text>
+<rect x="805" y="5" width="390" height="210" rx="12" fill="#0B1B24"/>
+<rect x="830" y="25" width="40" height="5" rx="2" fill="#26D07C"/>
+<text x="830" y="70" font-size="27" fill="#26D07C" font-weight="bold">Graduações</text>
+<text x="830" y="108" font-size="23" fill="#FFFFFF" font-weight="bold">Gestão de Recursos Humanos</text>
+<text x="830" y="151" font-size="23" fill="#FFFFFF" font-weight="bold">Psicologia</text>
+<text x="830" y="180" font-size="20" fill="#D9D9D6" font-weight="normal">Em andamento</text>
+</svg>
