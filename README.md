@@ -1,6 +1,6 @@
 ![Renata Tinoco — Identidade profissional](./visual-pessoal/banner.svg)
 
-![Mais de 30 anos de experiência e formação acadêmica](./visual-pessoal/experiencia.svg)
+![Mais de 30 anos de experiência em gestão e operações. Graduação em Gestão de Recursos Humanos, MBA em Gestão de Projetos, MBA em Gestão Estratégica de Negócios e Mercados e graduação em Psicologia em andamento.](./visual-pessoal/experiencia.svg)
 
 ---
 
@@ -46,19 +46,6 @@ Análise de rentabilidade, capacidade produtiva, eficiência operacional, indica
 Estruturação de controles, revisão de processos, identificação de inconsistências e desenvolvimento de mecanismos preventivos.
 
 </details>
-
----
-
-![Formação acadêmica](./visual-pessoal/titulo-formacao.svg)
-
-![Graduação em Gestão de Recursos Humanos, MBA em Gestão de Projetos, MBA em Gestão Estratégica de Negócios e Mercados e graduação em Psicologia em andamento](./visual-pessoal/formacao.svg)
-
-- **Graduação em Gestão de Recursos Humanos**
-- **MBA em Gestão de Projetos**
-- **MBA em Gestão Estratégica de Negócios e Mercados**
-- **Graduação em Psicologia** (em andamento)
-
-Minha formação multidisciplinar integra gestão, estratégia empresarial e comportamento humano, ampliando minha compreensão sobre liderança, desenvolvimento de pessoas e tomada de decisão.
 
 ---
 
