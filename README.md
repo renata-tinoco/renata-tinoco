@@ -6,8 +6,6 @@
 
 ## Perfil executivo
 
-## Perfil executivo
-
 ![Experiência que constrói. Conhecimento que transforma.](./perfil-executivo.svg)
 
 Com mais de **30 anos de experiência profissional**, minha trajetória integra gestão estratégica, liderança, conhecimento técnico e inovação.
