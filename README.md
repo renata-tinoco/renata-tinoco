@@ -6,15 +6,38 @@
 
 ![Perfil executivo](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/ca7db996b576e00a128f570c86fa72a8b2441ccc/visual-pessoal/titulo-perfil.svg)
 
-![Identidade profissional: estratégia para os negócios, liderança e desenvolvimento de pessoas e tecnologia aplicada aos processos.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/ca7db996b576e00a128f570c86fa72a8b2441ccc/visual-pessoal/perfil-executivo.svg)
+![Identidade profissional e trajetória de Renata em Departamento Pessoal, Folha de Pagamento e tecnologia. Versão em texto disponível a seguir.](https://raw.githubusercontent.com/renata-tinoco/renata-tinoco/305f14387c6c9faa8ef2b3fd06c06e9c9e25254a/visual-pessoal/perfil-executivo.svg)
 
-Durante anos, ouvi que “tudo é culpa do DP”. Também ouvi, muitas vezes, que o Departamento Pessoal e a Folha de Pagamento raramente recebiam o reconhecimento que mereciam. Vi colegas da própria área se acostumarem com essa visão e passarem a atuar dentro do papel que os outros esperavam de nós.
+<details>
+<summary>Ler o Perfil executivo em texto</summary>
 
-Para mim, isso nunca fez sentido. Eu amo o que faço. Se quero que esse trabalho seja valorizado, preciso começar por valorizá-lo e agir para que sua contribuição apareça. Quero que as pessoas que trabalham em DP sintam orgulho do que fazem e reconheçam a complexidade das decisões que tomam todos os dias.
+Durante anos, ouvi que “tudo é culpa do DP”. Vi o Departamento Pessoal e a Folha de Pagamento receberem pouco reconhecimento. E vi gente da própria área se acostumar com essa visão e passar a atuar do jeito que esperavam de nós.
 
-Ao longo de mais de 30 anos de experiência, aprendi que, quando uma regra muda e o sistema ainda não está preparado, a folha continua tendo prazo. A equipe precisa entender a mudança, encontrar um caminho, conferir os cálculos e garantir que as pessoas recebam corretamente. Muitas vezes, o “dar um jeito” envolve análise, responsabilidade e colaboração que pouca gente vê.
+Isso nunca fez sentido para mim. Eu amo o que faço. Se quero que o nosso trabalho seja reconhecido, o primeiro passo é valorizá-lo eu mesma e mostrar o que ele exige. Quero que quem atua nessa área sinta orgulho de fazer parte dela.
 
-Foi nesse contexto que a tecnologia entrou na minha vida profissional. Passei a usá-la para automatizar tarefas repetitivas, criar conferências e tornar os processos mais fáceis de acompanhar. Assim, a equipe ganha tempo para investigar exceções, tomar decisões e mostrar o impacto do seu trabalho, com a experiência de quem conhece a operação de perto.
+Quem vive a folha sabe o que acontece quando uma regra muda e o sistema ainda não está preparado. O prazo continua correndo. Precisamos entender a mudança, adaptar o processo e garantir que cada pessoa receba corretamente. Esse “dar um jeito” exige conhecimento, responsabilidade e decisão.
+
+Foi aí que a tecnologia entrou na minha vida. Hoje, quando um processo depende de copiar, digitar ou conferir a mesma informação centenas de vezes, eu me pergunto o que pode ser feito em lote, quais regras posso transformar em validações e quais exceções merecem a atenção da equipe.
+
+### Como transformo processos de DP e Folha
+
+- **Admissões, cadastros e contratos** — Padronizo a coleta de documentos e dados, valido campos obrigatórios e preparo arquivos de importação para admissões, alterações cadastrais e contratuais.
+
+- **Ponto, benefícios e afastamentos** — Cruzo marcações, horas extras, faltas, banco de horas e afastamentos. Organizo inclusões e exclusões de benefícios e sinalizo divergências antes que elas afetem a folha.
+
+- **Férias e 13º salário** — Se há centenas de férias para processar, organizo períodos, datas e regras, gero o arquivo em lote e separo as exceções para revisão. Aplico a mesma lógica às bases, parcelas e conferências do 13º.
+
+- **Cálculo, revisão e fechamento da folha** — Se o desafio é revisar, monto um revisor. Comparo rubricas, bases, descontos, encargos e variações entre competências. Na reta final, cruzo os totais da folha com os arquivos de pagamento e os lançamentos contábeis.
+
+- **Rescisões, obrigações e auditoria** — Estruturo conferências de verbas e prazos de desligamento, cruzo os dados da folha com os eventos do eSocial e organizo evidências para conciliações, obrigações e auditorias.
+
+- **Implantação e integração de sistemas** — Se a implantação exige um layout específico, construo o arquivo de importação. Se o sistema de origem só exporta em outro formato, mapeio os campos, transformo os dados e valido os totais antes da carga.
+
+### O que eu levo para a operação
+
+É isso que eu levo para uma operação de DP e Folha: experiência para entender a regra, tecnologia para tirar o trabalho repetitivo do caminho e critério para decidir o que precisa de revisão humana. Quero que a equipe tenha tempo para pensar, investigar e melhorar a operação. E quero que consiga mostrar, com resultados, o valor do trabalho que sempre sustentou.
+
+</details>
 
 ---
 
