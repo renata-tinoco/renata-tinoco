@@ -2,6 +2,8 @@
 
 ![Mais de 30 anos de experiência em gestão e operações. Graduação em Gestão de Recursos Humanos, MBA em Gestão de Projetos, MBA em Gestão Estratégica de Negócios e Mercados e graduação em Psicologia em andamento.](./visual-pessoal/experiencia.svg)
 
+**Departamento Pessoal e Folha de Pagamento** · Gestão de operações, liderança de equipes e melhoria de processos.
+
 ---
 
 ![Perfil executivo](./visual-pessoal/titulo-perfil.svg)
@@ -21,6 +23,10 @@ Gestão de projetos, planejamento operacional, gestão de riscos e conformidade,
 ![Minha atuação](./visual-pessoal/titulo-atuacao.svg)
 
 ![Áreas de atuação profissional](./visual-pessoal/atuacao.svg)
+
+### Departamento Pessoal e Folha de Pagamento
+
+Atuação na gestão de rotinas de Departamento Pessoal e de operações de folha de pagamento, com foco em organização dos fluxos, conferência de informações, cumprimento de prazos e melhoria de processos.
 
 <details>
 <summary>Consultar conteúdo em texto</summary>
